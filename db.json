@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "homescreen": [
+    { "id": 1, "title": "Restaurants" },
+    { "id": 2, "title": "Grocery" },
+    { "id": 3, "title": "Fruits & Vegetables" }
+    { "id": 4, "title": "Medicines" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
